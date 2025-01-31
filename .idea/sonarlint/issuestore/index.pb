@@ -7,3 +7,5 @@ O
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 N
 tests/mineral-registry.test.ts,7/e/7e2df83c60a3c35a4206b020ff114e410dde0ab6
+H
+contracts/batch-nft.clar,9/5/95ee3218f21b5d714813988a34f4f7637f3b69d5
