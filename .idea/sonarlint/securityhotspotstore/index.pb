@@ -11,3 +11,5 @@ H
 contracts/batch-nft.clar,9/5/95ee3218f21b5d714813988a34f4f7637f3b69d5
 G
 tests/batch-nft.test.ts,0/2/02c1bf907d8673d53e09859d0ab82c85641a8784
+N
+contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599

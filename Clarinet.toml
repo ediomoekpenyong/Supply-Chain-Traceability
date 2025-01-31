@@ -10,6 +10,11 @@ path = 'contracts/batch-nft.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.iot-integration]
+path = 'contracts/iot-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.mineral-registry]
 path = 'contracts/mineral-registry.clar'
 clarity_version = 2
