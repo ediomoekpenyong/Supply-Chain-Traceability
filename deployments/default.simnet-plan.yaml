@@ -50,6 +50,16 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: batch-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/batch-nft.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: iot-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/iot-integration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: mineral-registry
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/mineral-registry.clar
