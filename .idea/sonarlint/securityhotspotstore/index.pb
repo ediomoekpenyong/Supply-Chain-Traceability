@@ -9,3 +9,5 @@ N
 tests/mineral-registry.test.ts,7/e/7e2df83c60a3c35a4206b020ff114e410dde0ab6
 H
 contracts/batch-nft.clar,9/5/95ee3218f21b5d714813988a34f4f7637f3b69d5
+G
+tests/batch-nft.test.ts,0/2/02c1bf907d8673d53e09859d0ab82c85641a8784
