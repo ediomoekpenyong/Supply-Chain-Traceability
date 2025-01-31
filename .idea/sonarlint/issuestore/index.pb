@@ -13,3 +13,5 @@ G
 tests/batch-nft.test.ts,0/2/02c1bf907d8673d53e09859d0ab82c85641a8784
 N
 contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
+M
+tests/iot-integration.test.ts,c/b/cb7c60aba045aa478fec259a880227d84f9a1437
